@@ -1,0 +1,35 @@
+.btn-primary{
+    background-color:white!important;
+    border-color:white!important;
+    color: lightpink!important;
+    
+}
+.btn-primary:hover {
+    background-color:floralwhite!important;
+    border-color:floralwhite!important;
+    color: lightpink!important;  
+}
+
+.masthead {
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/NXVE6233.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mb-1{
+   color:white;
+}
+.masthead h1{
+    font-size:6rem;
+    font-family:"Palatino"
+}
+.bg-primary{
+    background:url("../img/NXVE6233.jpg")
+}
